@@ -74,7 +74,7 @@ function App() {
       </div>
       
       <div className="text-center mt-4 text-white">
-         &copy; {new Date().getFullYear()} Bibhuti Bhusan Sahoo
+         &copy; {new Date().getFullYear()} Soumya Ranjan Panda
       </div>
 
     </div>
