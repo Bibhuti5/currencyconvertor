@@ -50,7 +50,7 @@ function InputBox({
 // Copyright section
 const Copyright = () => (
     <div className="text-center mt-4 text-gray-500">
-        &copy; {new Date().getFullYear()} Bibhuti Bhusan Sahoo
+        &copy; {new Date().getFullYear()} Soumya Ranjan Panda
     </div>
 );
 
